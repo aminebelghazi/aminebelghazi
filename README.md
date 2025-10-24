@@ -64,7 +64,6 @@ Je suis actuellement à la recherche d’un **stage de fin d’études (à parti
 ## 📫 Contact
 
 - 📧 **Email :** [aminebelghazi@outlook.fr](mailto:aminebelghazi@outlook.fr)  
-- 💼 **LinkedIn :** [linkedin.com/in/aminebelghazi](https://www.linkedin.com/) *(à personnaliser)*  
 - 📍 Villeurbanne, France  
 - 🚗 Permis B (véhiculé)  
 
