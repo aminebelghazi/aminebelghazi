@@ -1,4 +1,4 @@
-tu me met combien sur 10? # 👋 Salut, je suis Amine Belghazi  
+# 👋 Salut, je suis Amine Belghazi  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Enthusiast+%7C+Python+%26+R+Lover)](https://git.io/typing-svg)
 
 🎓 Étudiant en **Master 2 Statistique, Modélisation et Science des Données** à l’Université Claude Bernard Lyon 1.  
