@@ -18,22 +18,6 @@ Je suis actuellement à la recherche d’un **stage de fin d’études (à parti
 
 ---
 
-## 🧠 Projets académiques récents
-
-### 🎥 Suivi d’objet dans une vidéo à l’aide de réseaux de neurones  
-> *Institut Camille Jordan (ICJ – UMR CNRS 5208)*  
-- Comparaison de méthodes de segmentation : approche variationnelle (TV-L1) et deep learning (OSVOS).  
-- Étude du flot optique et application de CNN pour la détection d’objet.  
-- Implémentation complète en **Python**, expérimentation et évaluation comparative.
-
-### 📊 Étude des tests de normalité en statistique  
-> *IUT de Metz, Département Mesures Physiques*  
-- Étude théorique et pratique des tests de normalité : **Chi²**, **Shapiro-Wilk**, **Kolmogorov-Smirnov**.  
-- Analyse du lien entre la statistique de Shapiro-Wilk et la **régression linéaire**.  
-- Applications avec **R** et **visualisation graphique**.
-
----
-
 ## 🛠 Compétences
 
 **Langages :**  
