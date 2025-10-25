@@ -6,10 +6,11 @@ Passionné par la **data science**, la **modélisation**, le **machine learning*
 Je suis actuellement à la recherche d’un **stage de fin d’études (à partir d’avril 2026)** afin de mettre en pratique mes compétences en **Python**, **R**, et **apprentissage automatique** sur des projets de **modélisation et analyse de données réelles**.  
 
 ---
-<!-- Bannière Rick & Morty étoiles -->
-<img src="https://media.tenor.com/6pN0RVT5aKAAAAAC/rick-and-morty-starry-night.gif"
-     alt="Rick and Morty watching the stars"
+<!-- Bannière Rick & Morty aventure -->
+<img src="https://media.giphy.com/media/11LdwWz2okJX84/giphy.gif"
+     alt="Rick and Morty jumping into a portal"
      style="width:100%; max-width:1000px; height:260px; object-fit:cover; border-radius:12px;" />
+
 
 ---
 
