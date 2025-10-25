@@ -4,8 +4,7 @@
 🎓 Étudiant en **Master 2 Statistique, Modélisation et Science des Données** à l’Université Claude Bernard Lyon 1.  
 Passionné par la **data science**, la **modélisation**, le **machine learning** et l’**analyse de données**.
 
-Je suis actuellement à la recherche d’un **stage de fin d’études (à partir d’avril 2026)** afin de mettre en pratique mes compétences en **Python**, **R**, et **apprentissage automatique** sur des projets de **modélisation et analyse de données réelles**.  
-
+À la recherche d’un stage de fin d’études (avril 2026) pour appliquer mes compétences en Python, R et machine learning sur des projets concrets de modélisation et d’analyse de données.
 ---
 <p align="center">
   <img src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" alt="Rick and Morty hacking" style="width:100%; max-width:800px; height:180px; object-fit:cover; border-radius:12px;" />
