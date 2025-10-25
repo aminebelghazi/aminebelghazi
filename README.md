@@ -6,9 +6,10 @@ Passionné par la **data science**, la **modélisation**, le **machine learning*
 Je suis actuellement à la recherche d’un **stage de fin d’études (à partir d’avril 2026)** afin de mettre en pratique mes compétences en **Python**, **R**, et **apprentissage automatique** sur des projets de **modélisation et analyse de données réelles**.  
 
 ---
-<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif"
-     alt="Rick scientist in lab"
+<img src="https://github.com/AmineBelghazi/assets/blob/main/rick-morty-portal.gif?raw=true"
+     alt="Rick and Morty portal"
      style="width:100%; max-width:1000px; height:260px; object-fit:cover; border-radius:12px;" />
+
 
 
 
