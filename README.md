@@ -42,13 +42,6 @@ Je suis actuellement à la recherche d’un **stage de fin d’études (à parti
 
 ---
 
-## 📈 Mes statistiques GitHub
-
-![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmineBelghazi&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineBelghazi&layout=compact&theme=tokyonight)
-
----
-
 > *“La donnée est le carburant de l’intelligence, la curiosité en est le moteur.”*  
 
  
