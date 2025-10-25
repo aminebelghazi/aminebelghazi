@@ -6,8 +6,8 @@ Passionné par la **data science**, la **modélisation**, le **machine learning*
 Je suis actuellement à la recherche d’un **stage de fin d’études (à partir d’avril 2026)** afin de mettre en pratique mes compétences en **Python**, **R**, et **apprentissage automatique** sur des projets de **modélisation et analyse de données réelles**.  
 
 ---
-<img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif"
-     alt="Rick scientist hologram"
+<img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif"
+     alt="Rick coding"
      style="width:100%; max-width:1000px; height:250px; object-fit:cover; border-radius:12px;" />
 
 ---
