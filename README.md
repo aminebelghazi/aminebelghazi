@@ -6,10 +6,9 @@ Passionné par la **data science**, la **modélisation**, le **machine learning*
 Je suis actuellement à la recherche d’un **stage de fin d’études (à partir d’avril 2026)** afin de mettre en pratique mes compétences en **Python**, **R**, et **apprentissage automatique** sur des projets de **modélisation et analyse de données réelles**.  
 
 ---
-
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" 
-       alt="Developer at Work" 
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" 
+       alt="Digital Matrix Animation" 
        style="width:100%; max-width:1000px; height:250px; object-fit:cover; border-radius:12px;" />
 </p>
 
