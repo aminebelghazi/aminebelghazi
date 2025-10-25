@@ -13,7 +13,6 @@ Je suis actuellement à la recherche d’un **stage de fin d’études (à parti
      alt="Rick and Morty portal"
      style="width:100%; max-width:1000px; height:250px; object-fit:cover; border-radius:12px;" />
 
-> 🧪 *Exploring the Data Multiverse with Rick & Morty Energy!*
 
 ---
 
