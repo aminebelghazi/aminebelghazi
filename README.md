@@ -1,13 +1,19 @@
 # 👋 Salut, je suis Amine Belghazi  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Enthusiast+%7C+Python+%26+R+Lover)](https://git.io/typing-svg)
 
-🎓 Étudiant en **Master 2 Statistique, Modélisation et Science des Données** à l’Université Claude Bernard Lyon 1.  
+🎓 Étudiant en **Master 2 Statistiques, Modélisation et Science des Données** à l’Université Claude Bernard Lyon 1.  
 Passionné par la **data science**, la **modélisation**, le **machine learning** et l’**analyse de données**.
 
 Je suis actuellement à la recherche d’un **stage de fin d’études (à partir d’avril 2026)** afin de mettre en pratique mes compétences en **Python**, **R**, et **apprentissage automatique** sur des projets de **modélisation et analyse de données réelles**.  
 
 ---
-<img src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" alt="Rick and Morty hacking" style="width:100%; max-width:1000px; height:250px; object-fit:cover; border-radius:12px;" />
+
+<img src="https://media.tenor.com/qv0kx0bO8ZkAAAAC/rick-and-morty-portal.gif"
+     alt="Rick and Morty portal"
+     style="width:100%; max-width:1000px; height:250px; object-fit:cover; border-radius:12px;" />
+
+> 🧪 *Exploring the Data Multiverse with Rick & Morty Energy!*
 
 ---
 
@@ -66,9 +72,16 @@ Je suis actuellement à la recherche d’un **stage de fin d’études (à parti
 - 📍 Villeurbanne, France  
 - 🚗 Permis B (véhiculé)  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AmineBelghazi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amine-belghazi/)  
+[![GitHub](https://img.shields.io/badge/GitHub-AmineBelghazi-black?style=for-the-badge&logo=github)](https://github.com/AmineBelghazi)
+
+---
+
+## 📈 Mes statistiques GitHub
+
+![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmineBelghazi&show_icons=true&theme=tokyonight)
+
 ---
 
 Merci d’avoir visité mon profil ! 🌟  
 > *“La donnée est le carburant de l’intelligence, la curiosité en est le moteur.”*  
-
-
