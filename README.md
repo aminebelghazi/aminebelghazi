@@ -7,11 +7,9 @@ Je suis actuellement à la recherche d’un **stage de fin d’études (à parti
 
 ---
 
-<!-- GIF d'intro -->
 <p align="center">
-  <img src="https://media.giphy.com/media/your-new-gif-id/giphy.gif" alt="Data Science Animation" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Science Animation" width="400"/>
 </p>
-
 
 ---
 
