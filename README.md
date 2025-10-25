@@ -35,19 +35,10 @@ Je suis actuellement à la recherche d’un **stage de fin d’études (à parti
 
 ---
 
-## 🌍 Langues
-
-- 🇫🇷 Français : Natif  
-- 🇬🇧 Anglais : C1  
-- 🇩🇪 Allemand : B1  
-
----
-
 ## 📫 Contact
 
 - 📧 **Email :** [aminebelghazi@outlook.fr](mailto:aminebelghazi@outlook.fr)  
 - 📍 Villeurbanne, France  
-- 🚗 Permis B (véhiculé)
 
 ---
 
