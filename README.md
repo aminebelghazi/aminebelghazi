@@ -10,6 +10,7 @@ Je suis actuellement à la recherche d’un **stage de fin d’études (à parti
      alt="Neural network abstract"
      style="width:100%; max-width:1000px; height:260px; object-fit:cover; border-radius:12px;" />
 
+
 ---
 
 ## 🌐 Découvrez mon portfolio
