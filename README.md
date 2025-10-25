@@ -7,11 +7,10 @@ Je suis actuellement à la recherche d’un **stage de fin d’études (à parti
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" 
-       alt="Matrix Green Code" 
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" 
+       alt="Matrix Code Animation" 
        style="width:100%; max-width:1000px; height:250px; object-fit:cover; border-radius:12px;" />
 </p>
-
 
 
 ---
