@@ -8,11 +8,10 @@ Je suis actuellement à la recherche d’un **stage de fin d’études (à parti
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" 
-       alt="Coding Animation" 
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" 
+       alt="Code Animation" 
        style="width:100%; max-width:1000px; height:250px; object-fit:cover; border-radius:12px;" />
 </p>
-
 
 
 ---
