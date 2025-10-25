@@ -7,9 +7,9 @@ Je suis actuellement à la recherche d’un **stage de fin d’études (à parti
 
 ---
 <!-- Bannière Rick & Morty étoiles -->
-<img src="./assets/rick-morty-stars.gif"
+<img src="https://media.tenor.com/6pN0RVT5aKAAAAAC/rick-and-morty-starry-night.gif"
      alt="Rick and Morty watching the stars"
-     style="width:100%; max-width:1000px; height:250px; object-fit:cover; border-radius:12px;" />
+     style="width:100%; max-width:1000px; height:260px; object-fit:cover; border-radius:12px;" />
 
 ---
 
