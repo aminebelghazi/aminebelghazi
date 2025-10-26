@@ -10,10 +10,11 @@ Passionné par la **data science**, la **modélisation**, le **machine learning*
 ---
 
 <p align="center">
-  <img src="https://i.giphy.com/3oEjI6SIIHBdRxXI40.gif" 
-       alt="Gojo Satoru Domain Expansion — maîtrise des données" 
+  <img src="https://i.giphy.com/l0MYt5jPR6QX5pnqM.gif" 
+       alt="Itadori Yuji — apprentissage progressif comme un modèle ML" 
        style="width:100%; max-width:800px; height:180px; object-fit:cover; border-radius:12px;" />
 </p>
+
 
 
 
