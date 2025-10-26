@@ -10,8 +10,9 @@ Passionné par la **data science**, la **modélisation**, le **machine learning*
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" alt="Rick and Morty hacking" style="width:100%; max-width:800px; height:180px; object-fit:cover; border-radius:12px;" />
+  <img src="https://media.giphy.com/media/xxxxx/giphy.gif" alt="Gojo Satoru Domain Expansion" style="width:100%; max-width:800px; height:180px; object-fit:cover; border-radius:12px;" />
 </p>
+
 
 ---
 
