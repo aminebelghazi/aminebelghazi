@@ -10,8 +10,11 @@ Passionné par la **data science**, la **modélisation**, le **machine learning*
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xxxxx/giphy.gif" alt="Gojo Satoru Domain Expansion" style="width:100%; max-width:800px; height:180px; object-fit:cover; border-radius:12px;" />
+  <img src="https://i.giphy.com/3oEjI6SIIHBdRxXI40.gif" 
+       alt="Gojo Satoru Domain Expansion — maîtrise des données" 
+       style="width:100%; max-width:800px; height:180px; object-fit:cover; border-radius:12px;" />
 </p>
+
 
 
 ---
