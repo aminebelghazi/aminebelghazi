@@ -10,13 +10,10 @@ Passionné par la **data science**, la **modélisation**, le **machine learning*
 ---
 
 <p align="center">
-  <img src="https://i.giphy.com/5xtDarEbyQe8JSDR0so.gif" 
-       alt="Sukuna — maîtrise des modèles complexes" 
+  <img src="..." 
+       alt="Rick and Morty hacking" 
        style="width:100%; max-width:800px; height:180px; object-fit:cover; border-radius:12px;" />
 </p>
-
-
-
 
 
 ---
