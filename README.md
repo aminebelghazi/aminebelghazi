@@ -10,10 +10,11 @@ Passionné par la **data science**, la **modélisation**, le **machine learning*
 ---
 
 <p align="center">
-  <img src="https://i.giphy.com/l0MYt5jPR6QX5pnqM.gif" 
-       alt="Itadori Yuji — apprentissage progressif comme un modèle ML" 
+  <img src="https://i.giphy.com/5xtDarEbyQe8JSDR0so.gif" 
+       alt="Sukuna — maîtrise des modèles complexes" 
        style="width:100%; max-width:800px; height:180px; object-fit:cover; border-radius:12px;" />
 </p>
+
 
 
 
