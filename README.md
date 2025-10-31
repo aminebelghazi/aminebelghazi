@@ -21,7 +21,6 @@ Passionné par la **data science**, la **modélisation**, le **machine learning*
 ## 🌐 Découvrez mon portfolio
 
 [![Mon Portfolio](https://img.shields.io/badge/Portfolio-Visiter-blue?style=for-the-badge&logo=github)](https://aminebelghazi.github.io/)  
-*(bientôt disponible)*
 
 ---
 
