@@ -1,44 +1,45 @@
-# Amine Belghazi  
+<h1 align="center">Amine Belghazi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?color=36BCF7&center=true&vCenter=true&width=900&pause=1000&lines=Machine+Learning+Engineer;NLP+%7C+Data+Science;From+data+to+models" />
+  Machine Learning Engineer · NLP · Data Science
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?color=36BCF7&center=true&vCenter=true&width=700&pause=1000&lines=Des+donn%C3%A9es+aux+mod%C3%A8les;Apprendre+en+construisant;Explorer+des+syst%C3%A8mes+intelligents" />
 </p>
 
 ---
 
-## About  
+Je travaille sur le machine learning et le traitement du langage naturel, avec l’objectif de transformer des données en modèles utilisables.
 
-Machine Learning Engineer avec un intérêt particulier pour le NLP et la modélisation.  
-Je travaille sur des projets autour du machine learning, de l’analyse de données et des systèmes basés sur le texte.  
-
-Master 2 — Statistique, Modélisation et Science des Données  
+Étudiant en Master 2 Statistique, Modélisation et Science des Données  
 Université Claude Bernard Lyon 1  
 
 ---
 
-## Work  
+## Travail  
 
-- NLP (text analysis, modelling)  
-- Machine learning & deep learning  
-- Data analysis  
+- Traitement du langage naturel  
+- Machine learning / deep learning  
+- Analyse et modélisation de données  
 
 ---
 
 ## Stack  
 
-Python • SQL  
-PyTorch • TensorFlow • scikit-learn • Git  
+Python · SQL  
+PyTorch · TensorFlow · scikit-learn  
 
 ---
 
-## Projects  
+## Projets  
 
-Construction en cours.  
-Les projets arrivent bientôt.  
+En cours de construction.  
+Les repositories reflètent ce que je développe.  
 
 ---
 
-## Links  
+## Portfolio  
 
 <p align="center">
   <a href="https://aminebelghazi.github.io/portfolio/">
@@ -50,4 +51,4 @@ Les projets arrivent bientôt.
 
 ## Contact  
 
-aminebelghazi@outlook.fr  
+aminebelghazi@outlook.fr
