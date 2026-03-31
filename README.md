@@ -1,10 +1,9 @@
 # 👋 Salut, je suis Amine Belghazi  
 
-<h1 align="center">Amine Belghazi</h1>
-
 <p align="center">
-  Machine Learning Engineer · NLP · Data Science
+  <img src="https://readme-typing-svg.demolab.com?color=36BCF7&center=true&vCenter=true&width=700&pause=1000&lines=From+data+to+models;Learning+by+building;Exploring+intelligent+systems" />
 </p>
+
 
 🎓 Étudiant en **Master 2 Statistique, Modélisation et Science des Données** à l’Université Claude Bernard Lyon 1.  
 Passionné par la **data science**, la **modélisation**, le **machine learning** et l’**analyse de données**.
