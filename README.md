@@ -67,8 +67,3 @@ Université Claude Bernard Lyon 1
 
 📧 aminebelghazi@outlook.fr  
 
----
-
-<p align="center">
-  <b>Build. Learn. Iterate.</b>
-</p>
