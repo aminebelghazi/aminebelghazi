@@ -34,8 +34,7 @@ Passionné par la **data science**, la **modélisation**, le **machine learning*
 
 ## 📫 Contact
 
-- 📧 **Email :** [aminebelghazi@outlook.fr](mailto:aminebelghazi@outlook.fr)  
-- 📍 Villeurbanne, France  
+- 📧 **Email :** [aminebelghazi@outlook.fr](mailto:aminebelghazi@outlook.fr)   
 
 ---
 
