@@ -1,8 +1,9 @@
 # 👋 Salut, je suis Amine Belghazi  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?color=36BCF7&center=true&vCenter=true&width=700&pause=1000&lines=From+data+to+models;Learning+by+building;Exploring+intelligent+systems" />
+  <img src="https://readme-typing-svg.demolab.com?color=36BCF7&center=true&vCenter=true&width=900&pause=1000&lines=Machine+Learning+Engineer;NLP+%7C+Data+Science;From+data+to+models" />
 </p>
+
 
 
 🎓 Étudiant en **Master 2 Statistique, Modélisation et Science des Données** à l’Université Claude Bernard Lyon 1.  
