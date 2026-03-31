@@ -1,59 +1,44 @@
-# 👋 Salut, moi c’est Amine  
+# 👋 Salut, je suis Amine Belghazi  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?color=36BCF7&center=true&vCenter=true&width=900&pause=1000&lines=Machine+Learning+Engineer;NLP+%7C+Data+Science;I+build+intelligent+systems+from+data" />
+  <img src="https://readme-typing-svg.demolab.com?color=36BCF7&center=true&vCenter=true&width=900&pause=1000&lines=Machine+Learning+Engineer;NLP+%7C+Data+Science;Building+systems+from+data" />
 </p>
 
 ---
 
-## 🧠 À propos  
+## À propos  
 
-Je transforme des données en systèmes intelligents.  
+Je m’intéresse à la manière dont on peut transformer des données en modèles utiles.  
+Je travaille principalement sur des problématiques de machine learning et de traitement du langage naturel.  
 
-🎓 Master 2 — Statistique, Modélisation et Science des Données  
+Étudiant en Master 2 Statistique, Modélisation et Science des Données  
 Université Claude Bernard Lyon 1  
 
-⚡ Intéressé par :
-- NLP & compréhension du langage  
-- Machine Learning appliqué  
-- Systèmes intelligents concrets  
+---
+
+## Ce que je fais  
+
+- NLP (analyse de texte, modélisation)  
+- Machine learning & deep learning  
+- Analyse de données  
 
 ---
 
-## ⚙️ Ce que je construis  
+## Stack  
 
-🔹 Modèles de machine learning appliqués à des problèmes réels  
-🔹 Systèmes NLP pour analyser et structurer du texte  
-🔹 Pipelines de données de bout en bout  
-
----
-
-## 🛠 Stack  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+Python • SQL  
+PyTorch • TensorFlow • scikit-learn • Git  
 
 ---
 
-## 🚀 Projets  
+## Projets  
 
-💡 Ici, je construis des projets pour :  
-- comprendre en profondeur les modèles  
-- résoudre des problèmes concrets  
-- apprendre en buildant  
-
-👉 **Explore mes repositories ci-dessous**  
+Je développe des projets pour appliquer ce que j’apprends et mieux comprendre les modèles.  
+Ils seront ajoutés ici progressivement.  
 
 ---
 
-## 🌐 Portfolio  
+## Portfolio  
 
 <p align="center">
   <a href="https://aminebelghazi.github.io/portfolio/">
@@ -63,7 +48,6 @@ Université Claude Bernard Lyon 1
 
 ---
 
-## 📫 Contact  
+## Contact  
 
-📧 aminebelghazi@outlook.fr  
-
+aminebelghazi@outlook.fr  
